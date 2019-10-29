@@ -1,4 +1,3 @@
-# Wang-Xinmeng-Resume
 <html>
 
 <head>
